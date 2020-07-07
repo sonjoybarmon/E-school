@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFFFF;
+}
+p{
+    font-size: 16px;
+}
+.hero_area{
+    background-color: #F0FFF0;
+
+}
+.menu_area{
+    padding-top: 20px;
+}
+.menu_area img{
+    width: 160px;
+}
+.menu_content{
+    
+}
+.menu_content ul li{
+    padding-left: 30px;
+}
+.menu_content ul li a{
+    color: #151515;
+}
+.boby_area{
+    padding: 100px 0;
+}
+a.signup_btn{
+    margin-left: 20px;
+}
+a.signup_btn,.signup_btn-2,.signup_btn-3{
+    background-color: #2FA470;
+    border-radius: 30px;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    transition: all .6s ease-in-out;
+}
+.signup_btn-2{
+    margin-top: 10px;
+}
+.signup_btn:hover{
+    background-color: #666666;
+}
+.signup_btn-2:hover{
+    background-color: #666666;
+}
+.signup_btn-3:hover{
+    background-color: #666666;
+}
+.frist_title{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.second_title{
+    font-size: 40px;
+    line-height: 70px;
+    color: #000000;
+    font-weight: 700;
+
+}
+.second_title span{
+    color: #21B573;
+}
+.hero_text p{
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+}
+.hero_img img{
+    width: 100%;
+}
+.single_box img{
+    width: 80px;
+    height: 83px;
+}
+.single_box{
+    margin: 25px 0;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    transition: all .3s ease-in-out;
+}
+.single_box h5{
+    padding-top: 20px;
+    color: #413960;
+}
+.single_box p{
+    color: #585859;
+}
+.single_box:hover{
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    overflow: hidden;
+}
+.course_title{
+    padding-bottom: 40px;
+}
+.section_padding{
+    padding: 100px 0 0 0;
+}
+.card_content{
+    border-radius: 15px;
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    overflow: hidden;
+    padding:20px;
+}
+.card_text{
+    padding: 15px 0;
+}
+.card_text h5{
+    font-weight: 500;
+    color: #413960;
+}
+.card_text{
+    color: #585859;
+}
+.card_icon span{
+    padding: 20px 0 10px 0;
+    font-size: 16px;
+    color: #585859;
+}
+.testi_img img{
+    width: 120px;
+    height: 120px;
+}
+.testimonial_title{
+    padding-bottom: 40px;
+    color: #000000;
+}
+.section_padding-2{
+    padding: 100px;
+}
+.texti_text p{
+    color: #000000;
+    font-size: 15px;
+    line-height: 30px;
+}
+footer{
+    background-color: #282531;
+    color: #ffffff;
+}
+.footer_content{
+    margin: 70px 0;
+}
+.footer_content p{
+    font-size: 11px;
+    line-height: 30px;
+}
+.footer_content ul li{
+    list-style: none;
+    font-size: 18px;
+    line-height: 30px;
+
+}
